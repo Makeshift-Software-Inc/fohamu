@@ -50,10 +50,9 @@ footer {
   }
 
   .social-buttons {
-    display: flex;
-    flex-wrap: wrap;
+    display: inline-flex;
     justify-content: center;
-    margin-top: -10px;
+    margin-top: 2vh;
 
     &__button {
       margin: 10px 5px 0;
